@@ -1,7 +1,7 @@
 require "activeadmin/bootstrap/version"
 
 module Activeadmin
-  module Bootstrap
-    # Your code goes here...
+  module Rails
+    class Engine < ::Rails:Engine
   end
 end
